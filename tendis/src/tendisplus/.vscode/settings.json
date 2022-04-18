@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "__nullptr": "cpp",
+        "__node_handle": "cpp",
+        "optional": "cpp",
+        "system_error": "cpp",
+        "iterator": "cpp",
+        "bitset": "cpp"
+    }
+}
